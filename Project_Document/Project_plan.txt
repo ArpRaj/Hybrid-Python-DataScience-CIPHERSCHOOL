@@ -1,0 +1,28 @@
+Project Plan
+Tasks:
+1.	Data Collection:
+o	Obtain the Mall Customers dataset from the source.
+2.	Data Cleaning:
+o	Cleanse the dataset to handle missing values, outliers, and ensure data consistency.
+3.	Exploratory Data Analysis (EDA):
+o	Perform detailed analysis to understand customer demographics, purchasing patterns, and other relevant factors.
+4.	Clustering:
+o	Implement K-Means clustering algorithm to segment customers into distinct groups based on their behavior.
+5.	Visualization:
+o	Use Matplotlib for visualizing clusters and patterns within Google Colab.
+o	Develop interactive dashboards and visualizations using Power BI for comprehensive insights.
+6.	Documentation:
+o	Prepare documentation covering all stages of the project, including methodologies, findings, and recommendations.
+Resources:
+•	Personnel:
+o	Myself
+•	Tools:
+o	Python (for data analysis and clustering)
+o	Google Colab(for code development and EDA)
+o	Matplotlib and Seaborn (for data visualization)
+o	Power BI (for interactive dashboard development)
+Risks:
+•	Data Quality Issues: Ensure data cleaning procedures are thorough to address inconsistencies.
+•	Algorithm Performance: Monitor and optimize K-Means clustering for accurate segmentation.
+•	Visualization Limitations: Address potential challenges in creating effective visualizations to communicate insights.
+
