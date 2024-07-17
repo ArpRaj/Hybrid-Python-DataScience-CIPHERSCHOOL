@@ -1,0 +1,13 @@
+Business Requirements Document (BRD)
+Business Problem:
+•	Lack of understanding of different customer profiles leading to untargeted marketing strategies.
+Business Objectives:
+•	To improve customer satisfaction and sales by understanding customer segments.
+Functional Requirements:
+•	Data analysis to identify customer segments
+•	Clustering algorithms (specifically K-Means) implementation
+•	Visualization of customer segments using Matplotlib and Power BI
+Non-functional Requirements:
+•	Performance: Ensure that the clustering and visualization processes are efficient and timely.
+•	Scalability: Ability to handle increasing volumes of customer data as the store's customer base grows.
+•	Usability: User-friendly interfaces for data analysts and business stakeholders to interpret and utilize the segmentation results effectively.
