@@ -1,0 +1,15 @@
+Project Title: Customer Segmentation for a Retail Store
+Project Manager: ARPIT RAJPUT
+Start Date: 15-07-2024
+End Date: 17-07-2024
+Objectives:
+•	To segment customers into distinct groups based on their purchasing behavior.
+Scope:
+•	Data cleaning
+•	Exploratory Data Analysis (EDA)
+•	Customer segmentation using K-Means clustering
+•	Visualization using Matplotlib and Power BI
+Deliverables:
+•	Insights into customer segments
+•	Conclusions based on segmentation analysis
+•	Recommendations for targeted marketing strategies
