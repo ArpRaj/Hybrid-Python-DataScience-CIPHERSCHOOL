@@ -1,0 +1,18 @@
+Technical Requirements Document (TRD)
+Data Sources:
+•	Dataset: Mall Customers dataset
+Technologies:
+•	Programming Languages: Python
+•	Tools and Libraries:  Matplotlib, Seaborn, Scikit-learn,Google Colab
+•	Visualization Tools: Power BI
+Architecture:
+•	Data Preprocessing: Clean and prepare the Mall Customers dataset for analysis.
+•	Exploratory Data Analysis (EDA): Analyze and explore the dataset to understand its characteristics and patterns.
+•	Clustering: Implement the K-Means clustering algorithm to segment customers based on purchasing behavior.
+•	Visualization: Utilize Matplotlib for detailed visualizations within Google colab and Power BI for interactive dashboards.
+Data Flow:
+1.	Import data: Retrieve and load Mall Customers dataset into Jupyter Notebook.
+2.	Clean data: Handle missing values, outliers, and ensure data quality.
+3.	Analyze data: Conduct EDA to gain insights into customer behavior patterns.
+4.	Segment customers: Apply K-Means clustering to group customers into segments.
+5.	Visualize results: Create visualizations using Matplotlib within Google Colab and develop interactive dashboards using Power BI for comprehensive insights.
