@@ -1,0 +1,46 @@
+
+•	Project Title: Mall Customer Segmentation
+
+
+•	Tech Stack Used:
+1.	Programming Languages: Python
+
+2.	Libraries: 
+a)	Data Manipulation: pandas, numpy
+b)	Data Visualization: matplotlib, seaborn
+c)	Machine Learning:  scikit-learn.
+
+3.	Tools:  Google Colab
+
+
+Project Details:
+
+Overview:
+The Mall Customer Segmentation project aims to analyse the behaviour of mall customers using clustering techniques to identify distinct groups. These segments help in understanding customer demographics, spending habits, and preferences, enabling the mall to tailor its marketing strategies accordingly.
+
+Features and Functionalities:
+1. Data Collection and Cleaning:
+   - Loaded the dataset `Mall_Customers.csv`.
+   - Checked for missing values and handled them appropriately.
+   - Encoded categorical variables such as gender into numerical format.
+   - Saved the cleaned dataset as `cleaned_mall_customers.csv`.
+
+2. Exploratory Data Analysis (EDA):
+   - Calculated descriptive statistics to summarize the dataset.
+   - Created visualizations such as histograms for age, annual income, and spending score distributions.
+   - Generated scatter plots of annual income vs. spending score, coloured by gender.
+   - Saved the EDA plots and statistics in Google Colab.
+
+3. Customer Segmentation:
+   - Standardized features such as age, annual income, and spending score.
+   - Applied K-Means clustering to segment customers into 5 distinct clusters.
+   - Created scatter plots of annual income vs. spending score, coloured by cluster.
+   - Saved the clustering code and plot in Google Colab.
+
+4. Insights and Recommendations:
+   - Analysed customer segments to extract meaningful insights.
+   - Provided actionable recommendations for marketing strategies tailored to each customer segment.
+   - Compiled the insights and recommendations into a comprehensive report (`Insights_Report.pdf`).
+
+Conclusion:
+By leveraging the power of data analysis and machine learning, the Mall Customer Segmentation project successfully identified distinct customer segments. These insights enable the mall to implement targeted marketing strategies, enhancing customer satisfaction and optimizing business performance.
